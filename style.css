@@ -1,0 +1,17 @@
+textarea#before { 
+  display:block;
+  font-family: sans-serif;
+  width: 80%;
+  min-height: 10em;
+  padding: 4px;
+}
+
+#after { 
+  font-family: sans-serif;
+  width: 45%;
+  padding: 4px;
+}
+
+#about { 
+  float:right;
+}
